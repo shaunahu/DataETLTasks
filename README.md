@@ -1,3 +1,2 @@
-Yuxuan's solutions towards DataETLTasks, which are shown in 'DataETLTasks.pdf'.
-# Run
-In command console, run code: `jupyter notebook 'DataETLTasks_Yuxuan_Hu.ipynb`
+- `DataETLTasks_Yuxuan_Hu.ipynb` is the notebook of Yuxuan's solutions towards DataETLTasks, which are shown in 'DataETLTasks.pdf'.
+- `DataETL_Notebook.ipynb` is the notebook to demonstrating personal skills as a Data Engineer.
